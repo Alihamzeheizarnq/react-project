@@ -17,7 +17,9 @@ class Nav extends Component {
     return (
       <div className="card">
         <b>count basket : {this.props.card.length}</b>
-        <div>total Price : {this.hanlerId()}</div>
+        <div>total Price : {this.hanlerId()} </div>
+        <span style={{color : 'red'}}>   i am a progromming web </span>
+
       </div>
     );
   }
