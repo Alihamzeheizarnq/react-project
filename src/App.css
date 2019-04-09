@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.pro{
+  border: 1px solid #eee;
+  width: 300px;
+  padding:0;
+  margin: 10px;
+}
+.pro p {
+  background: #ccc;
+  padding: 10px;
+  margin: 0;
+}
+.pro div{
+  margin: 0;
+  background: #FFeF;
+  padding: 10px;
+}
+.pro button{
+  float: right;
+  margin-bottom: 10px;
+  border: 0px;
+  padding: 6px;
+}
+.card{
+  margin: 0;
+  height: 60px;
+  width: 100%;
+  background: #555;
+}
+.card div{
+  display: inline;
+  margin-left: 20px;
+}
+.remove{
+  background: rgb(236, 101, 101)
+}
